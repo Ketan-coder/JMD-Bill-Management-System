@@ -38,8 +38,8 @@ Follow these steps to run the project:
 
 1. **Clone the repository**  
    ```bash  
-   git clone https://github.com/Ketan-coder/JMD-bill-management-system.git  
-   cd JMD-bill-management-system  
+   git clone https://github.com/Ketan-coder/JMD-Bill-Management-System.git  
+   cd JMD-Bill-Management-System  
    ```  
 
 2. **Install dependencies**  
